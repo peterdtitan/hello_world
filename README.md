@@ -1,7 +1,51 @@
-# Microverse Hello World
-  > Contains work from the Microverse 'The Portal' module: week 1.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Requirements
-  > Create a new branch. Work on that branch and save updates. Make a pull request and ask for code review. 
-    Submit the link to your pull request.
+# Hello World
 
+> Learning best practices of GitHub flow.
+
+![screenshot](./screenshot.png)
+
+Hello Microverse
+
+## Built With
+
+- HTML & CSS
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+A Web Browser (preferably Google Chrome)
+
+### Setup
+
+Clone the GitHub Repository
+
+### Usage
+
+Open index.html in Chrome
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@peterdtitan](https://github.com/peterdtitan)
+- Twitter: [@PeterDeTitan](https://twitter.com/PeterDeTitan)
+- LinkedIn: [Peter Okorafor](https://www.linkedin.com/in/peterokorafor)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
